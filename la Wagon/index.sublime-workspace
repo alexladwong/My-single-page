@@ -1,0 +1,260 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"i",
+				"icon"
+			],
+			[
+				"ia",
+				"images"
+			],
+			[
+				"nav",
+				"nav-logo"
+			],
+			[
+				"na",
+				"nav-logo"
+			],
+			[
+				"--",
+				"--hover-color"
+			],
+			[
+				"te",
+				"text-decoration"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"--te",
+				"--text-lage-font"
+			],
+			[
+				"fle",
+				"flex-direction"
+			],
+			[
+				"-",
+				"--dark-color"
+			],
+			[
+				"fo",
+				"font-family"
+			],
+			[
+				"fl",
+				"flex-direction"
+			],
+			[
+				"padding-",
+				"padding-right"
+			],
+			[
+				"al",
+				"align-items"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"tra",
+				"transition"
+			],
+			[
+				"box-",
+				"box-sizing"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"a",
+				"a"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"line",
+				"Selection: Split into Lines"
+			],
+			[
+				"edit ",
+				"Selection: Expand to Indentation"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/ambassadorz/Documents/Cursera Gird/bootstrap-theme.min.css",
+		"/Users/ambassadorz/Documents/Cursera Gird/grid-before.html",
+		"/Users/ambassadorz/Developer/Column Practices/responsive-before.html",
+		"/Users/ambassadorz/Downloads/fullstack-course4-master/examples/Lecture24/responsive-after.html",
+		"/Users/ambassadorz/Developer/Test-sit/mystyles.css",
+		"/Users/ambassadorz/Developer/Test-sit/index.html"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 273.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
